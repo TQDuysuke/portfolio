@@ -1,0 +1,120 @@
+{
+  "anh_goc_trai.png": null,
+  "anh_khong_quan_trong.jpg": null,
+  "anh_truc dien.jpg": null,
+  "chilling_vibe_ (1).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/1600",
+    "aperture": "f/1.8",
+    "iso": "ISO 320",
+    "focal": "50mm"
+  },
+  "chilling_vibe_ (2).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/1250",
+    "aperture": "f/1.8",
+    "iso": "ISO 250",
+    "focal": "50mm"
+  },
+  "chilling_vibe_ (3).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/2500",
+    "aperture": "f/2.2",
+    "iso": "ISO 320",
+    "focal": "50mm"
+  },
+  "embe_ (1).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/320",
+    "aperture": "f/2",
+    "iso": "ISO 160",
+    "focal": "50mm"
+  },
+  "embe_ (2).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/320",
+    "aperture": "f/1.8",
+    "iso": "ISO 160",
+    "focal": "50mm"
+  },
+  "embe_ (3).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/320",
+    "aperture": "f/2",
+    "iso": "ISO 160",
+    "focal": "50mm"
+  },
+  "embe_ (4).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/320",
+    "aperture": "f/2",
+    "iso": "ISO 160",
+    "focal": "50mm"
+  },
+  "Lighting_ (1).png": null,
+  "Lighting_ (2).png": null,
+  "street_ (1).jpg": {
+    "camera": "ILCE-7R",
+    "exposure": "1/2500",
+    "aperture": "f/3.5",
+    "iso": "ISO 250",
+    "focal": "50mm"
+  },
+  "street_ (2).jpg": null,
+  "street_ (3).jpg": {
+    "camera": "ILCE-7R",
+    "exposure": "1/3200",
+    "aperture": "f/3.5",
+    "iso": "ISO 250",
+    "focal": "50mm"
+  },
+  "tot_nghiep_ (1).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/1250",
+    "aperture": "f/1.8",
+    "iso": "ISO 100",
+    "focal": "50mm"
+  },
+  "tot_nghiep_ (2).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/4000",
+    "aperture": "f/1.8",
+    "iso": "ISO 250",
+    "focal": "50mm"
+  },
+  "tot_nghiep_ (3).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/4000",
+    "aperture": "f/1.8",
+    "iso": "ISO 250",
+    "focal": "50mm"
+  },
+  "tot_nghiep_ (4).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/1000",
+    "aperture": "f/1.8",
+    "iso": "ISO 100",
+    "focal": "50mm"
+  },
+  "tot_nghiep_ (5).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/800",
+    "aperture": "f/1.8",
+    "iso": "ISO 200",
+    "focal": "50mm"
+  },
+  "tot_nghiep_ (6).jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/1000",
+    "aperture": "f/2",
+    "iso": "ISO 250",
+    "focal": "50mm"
+  },
+  "tre_em.jpg": {
+    "camera": "ILCE-7RM2",
+    "exposure": "1/2500",
+    "aperture": "f/1.8",
+    "iso": "ISO 200",
+    "focal": "50mm"
+  }
+}
