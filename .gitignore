@@ -8,8 +8,8 @@ pnpm-debug.log*
 lerna-debug.log*
 
 # dependency directories
-node_modules/
-jspm_packages/
+node_modules
+dist
 
 # IDEs and editors
 .idea/
