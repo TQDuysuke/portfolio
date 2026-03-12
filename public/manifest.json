@@ -1,0 +1,22 @@
+{
+  "name": "Trần Quốc Duy | Portfolio",
+  "short_name": "TQD Portfolio",
+  "description": "Kỹ sư Cơ điện tử & Nhiếp ảnh gia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1f2023",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
